@@ -1,4 +1,3 @@
-** Various Python3 scripts for prototyping Swift text parser.
-* Import Game Titles for all Wikipedia Game Entries
-* 
+#  Fuzzy Title Matching Algorithm Prototype
+ Various Python3 scripts for prototyping Swift text parsing algorithm.
 
